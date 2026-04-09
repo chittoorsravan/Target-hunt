@@ -2,4 +2,6 @@
 iHello world -1 
 Chittoor sravan 
 This line is added from the github editor 
-new line added fron Git editor
+=======
+new line from local 
+>>>>>>> aee67b5 (Adding new line from local)
