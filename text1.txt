@@ -7,3 +7,6 @@ new line from local
 
 
 Testing the Git diff cmd
+
+
+testing the fetch cmd 
